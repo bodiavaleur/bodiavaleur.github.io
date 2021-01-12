@@ -10,9 +10,15 @@
     "@types/node": "^12.19.9",
     "@types/react": "^16.14.2",
     "@types/react-dom": "^16.9.10",
+    "@types/react-icons": "^3.0.0",
+    "@types/styled-components": "^5.1.7",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "react-icons": "^4.1.0",
     "react-scripts": "4.0.1",
+    "react-slick": "^0.27.13",
+    "react-spring": "^8.0.27",
+    "styled-components": "^5.2.1",
     "typescript": "^4.1.3",
     "web-vitals": "^0.2.4"
   },
@@ -39,5 +45,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "react-visibility-sensor": "^5.1.1"
   }
 }
