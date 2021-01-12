@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/static/js/main.35801ee7.chunk.js",
+    "main.js.map": "/static/js/main.35801ee7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8d791f40.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8d791f40.js.map",
+    "static/js/2.b5c4fa12.chunk.js": "/static/js/2.b5c4fa12.chunk.js",
+    "static/js/2.b5c4fa12.chunk.js.map": "/static/js/2.b5c4fa12.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.b5c4fa12.chunk.js.LICENSE.txt": "/static/js/2.b5c4fa12.chunk.js.LICENSE.txt",
+    "static/media/desktopFood.4bb03bc5.svg": "/static/media/desktopFood.4bb03bc5.svg",
+    "static/media/desktopImoovie.09cc072d.svg": "/static/media/desktopImoovie.09cc072d.svg",
+    "static/media/desktopMillionaire.57bd504a.svg": "/static/media/desktopMillionaire.57bd504a.svg",
+    "static/media/desktopMntn.f4d4778a.svg": "/static/media/desktopMntn.f4d4778a.svg",
+    "static/media/desktopNotify.99542606.svg": "/static/media/desktopNotify.99542606.svg",
+    "static/media/laptop.d15bdfaf.svg": "/static/media/laptop.d15bdfaf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d791f40.js",
+    "static/js/2.b5c4fa12.chunk.js",
+    "static/js/main.35801ee7.chunk.js"
+  ]
+}
