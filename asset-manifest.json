@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.35801ee7.chunk.js",
-    "main.js.map": "/static/js/main.35801ee7.chunk.js.map",
+    "main.js": "/static/js/main.eb961a1b.chunk.js",
+    "main.js.map": "/static/js/main.eb961a1b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8d791f40.js",
     "runtime-main.js.map": "/static/js/runtime-main.8d791f40.js.map",
-    "static/js/2.b5c4fa12.chunk.js": "/static/js/2.b5c4fa12.chunk.js",
-    "static/js/2.b5c4fa12.chunk.js.map": "/static/js/2.b5c4fa12.chunk.js.map",
+    "static/js/2.60c905cb.chunk.js": "/static/js/2.60c905cb.chunk.js",
+    "static/js/2.60c905cb.chunk.js.map": "/static/js/2.60c905cb.chunk.js.map",
     "index.html": "/index.html",
-    "static/js/2.b5c4fa12.chunk.js.LICENSE.txt": "/static/js/2.b5c4fa12.chunk.js.LICENSE.txt",
+    "static/js/2.60c905cb.chunk.js.LICENSE.txt": "/static/js/2.60c905cb.chunk.js.LICENSE.txt",
     "static/media/desktopFood.4bb03bc5.svg": "/static/media/desktopFood.4bb03bc5.svg",
     "static/media/desktopImoovie.09cc072d.svg": "/static/media/desktopImoovie.09cc072d.svg",
     "static/media/desktopMillionaire.57bd504a.svg": "/static/media/desktopMillionaire.57bd504a.svg",
@@ -17,7 +17,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.8d791f40.js",
-    "static/js/2.b5c4fa12.chunk.js",
-    "static/js/main.35801ee7.chunk.js"
+    "static/js/2.60c905cb.chunk.js",
+    "static/js/main.eb961a1b.chunk.js"
   ]
 }
